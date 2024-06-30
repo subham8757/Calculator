@@ -1,0 +1,71 @@
+.firstlayer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.btndiv{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color:#333033 ;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.45) inset;
+}
+
+.btn {
+    border-radius: 50%;
+    background-color:#333033 ;
+    color: white;
+    border: none;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.actionbtndiv{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color:#FF9503 ;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.45) inset;
+}
+
+.actionbtn {
+    border-radius: 50%;
+    background-color:#FF9503 ;
+    color: white;
+    border: none;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+
+.specialdiv{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color:#A7A4A7 ;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.45) inset;
+}
+
+.specialbtn{
+    border-radius: 50%;
+    background-color:#A7A4A7 ;
+    color: white;
+    border: none;
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+}
