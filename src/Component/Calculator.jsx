@@ -106,7 +106,7 @@ function Calculator() {
         </div>
         <div className={style.actionbtndiv}>
           <button className={style.actionbtn} onClick={() => handleMinus("-")}>
-            -
+          −
           </button>
         </div>
       </div>
@@ -129,7 +129,7 @@ function Calculator() {
         </div>
         <div className={style.actionbtndiv}>
         <button className={style.actionbtn} onClick={() => handleMultiply("*")}>
-          *
+          ×
         </button>
         </div>
      
@@ -157,7 +157,7 @@ function Calculator() {
         </div>
         <div className={style.actionbtndiv}>
         <button className={style.actionbtn} onClick={() => handleDivide("/")}>
-          /
+        ÷
         </button>
         </div>
       </div>
